@@ -234,4 +234,4 @@ If someone runs SSH on port 2222, levi won't know it is SSH.
 
 ## License
 
-MIT License. See [LICENSE](LICENSE).
+MIT License. See [LICENSE](../LICENSE).
